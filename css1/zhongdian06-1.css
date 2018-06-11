@@ -120,6 +120,7 @@ a{
 	width:1200px;
 	height:95px;
 	margin:0 auto;
+	background-color: yellow;
 }
 .zhuye1-1{
 	font-size:14px;
@@ -148,47 +149,7 @@ a{
 /*内容*/
 .content1{
 	width:1200px;
-	height:377px;
-	background-color: pink;
-}
-/*.top{
-	font-size:24px;
-	font-family:"微软雅黑";
-	color:black;
-	margin-bottom:15px;
-}
-.bottom{
-	font-size:14px;
-	color:black;
-	margin-bottom:15px;
-}
-.content1>h1{
-	font-family:"微软雅黑";
-	font-size:24px;
-	color:#2756a4;
-} 
-.content1 img{
-	margin-top:20px;
-}
-.next{
-	margin-top:45px;
-	margin-left:22px;
-	margin-bottom:20px;
-}
-h3{
-	font-family:"微软雅黑";
-	font-size:14px;
-	color:#999;
-	margin-left:22px;
-}
-*/
-
-
-
-
-/*.content1{
-	width:1200px;
-	height:226px;
+	height:223px;
 	margin:0 auto;
 	background-color: pink;
 }
@@ -199,19 +160,45 @@ h3{
 }
 .content2{
 	width:1200px;
-	height:155px;
+	height:160px;
 	margin:0 auto;
-	background-color: #ffffff;
+	background-color:red;
 }
 .content21{
-	margin-top:52px;
-	margin-left:20px;
-	background-color:green;
-}*/
-
-
-
-
+	padding-left:20px;
+	padding-top:48px;
+	font-size: 20px;
+	color:#2756a4;
+}
+.content22{
+	padding-top:17px;
+	padding-left:20px;
+	font-size:16px;
+	color:#666666;
+}
+.content3{
+	width:1200px;
+	height:442px;
+	margin:0 auto;
+}
+.content31{
+	width:286px;
+	height:442px;
+	margin-right:17px;
+	float:left;
+	background-color: red;
+}
+.content32{
+	width:286px;
+	height:442px;
+	float:left;
+	background-color: red;
+}
+.content311{
+	padding-left:10px;
+	padding-top:28px;
+	float:left;
+}
 
 /*蓝色*/
 .lan{
