@@ -181,21 +181,20 @@ a{
 }
 .content31{
 	width:286px;
-	height:442px;
+	height:450px;
 	margin-right:17px;
 	float:left;
 	background-color:#ffffff;
 }
 .content32{
 	width:286px;
-	height:442px;
+	height:450px;
 	float:left;
 	background-color:#ffffff;
 }
 .content311{
 	padding-left:10px;
-	padding-top:28px;
-	float:left;
+	
 }
 .content312{
 	width:286px;
@@ -205,6 +204,17 @@ a{
 	padding-top:25px;
 	padding-left:95px;
 }
+.content313{
+	list-style-type:none;
+}
+li{
+	padding-top: 12px;
+	padding-bottom: 10px;
+	font-size:14px;
+	color:#2756a4;
+}
+
+
 
 /*蓝色*/
 .lan{
