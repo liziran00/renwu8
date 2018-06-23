@@ -48,12 +48,18 @@ a{
 	color:#919191;
 	float:left;
 }
-
 .language{
-	margin-top:52px;
-	font-size:15px;
-	color:#f1565b;
+	width:72px;
+	height:25px;
+	font-size: 15px;
+	color:red;
 	float:left;
+	margin-top: 52px;
+	padding-right:10px;
+}
+select{
+	color:red;
+	border-color: #ffffff;
 }
 .zhuce{
 	width:116px;
@@ -102,7 +108,17 @@ a{
 	color:#c8c8c8;
 	font-size:15px;
 }
-.sousuo span{
+.sousuo p{
+	padding:10px 170px 10px 10px;
+	float:left;
+}
+.ph{
+	padding-top:10px;
+	padding-bottom: 10px;
+	float:left;
+}
+
+/*.sousuo span{
 	margin-top:12px;
 	margin-left:10px;
 }
@@ -110,7 +126,7 @@ a{
 	padding-top:10px;
 	padding-bottom: 10px;
 	float:right;
-}
+}*/
 /*中间部分*/
 .zhongjian{
 	width:100%;
